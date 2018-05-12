@@ -1,0 +1,29 @@
+_repo: Rese-a-Veridica-de-la-Revoluci-n-Filipina_14307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aguinaldo, Emilio
+    alias: Aguinaldo y Famy, Emilio
+    birthdate: 1869
+    deathdate: 1964
+    gutenberg_agent_id: '5462'
+    url: http://www.gutenberg.org/2009/agents/5462
+    wikipedia: http://en.wikipedia.org/wiki/Emilio_Aguinaldo
+description: ''
+gutenberg_issued: '2004-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14307'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- Philippine American War, 1899-1902'
+- !lcc 'DS'
+- !lcsh 'Philippines -- History -- Revolution, 1896-1898'
+title: Reseña Veridica de la Revolución Filipina
+url: http://www.gutenberg.org/ebooks/14307
