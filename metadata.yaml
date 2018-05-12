@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5462
     wikipedia: http://en.wikipedia.org/wiki/Emilio_Aguinaldo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14307#Rese-a-Veridica-de-la-Revoluci-n-Filipina
 gutenberg_issued: '2004-12-09'
 gutenberg_type: Text
 identifiers:
